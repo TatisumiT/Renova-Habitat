@@ -1,0 +1,112 @@
+body{
+    background-image: url(fundo.png);
+    background-size: 2100px 1000px;
+    background-position: -280px; 
+}
+
+.paragrafo{
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#fotologo{
+    display: block;
+    position: absolute;
+    width: 50%;
+    margin-left: 24%;
+    margin-top: 3%;
+
+}
+
+#Login{
+    position: absolute;
+    display: block;
+    left: 25%;
+    top: 43%;
+    font-style: inherit;
+    color: #063d36;
+    font-size: 260%;
+}
+
+.formulario{
+    display: block;
+    position: absolute;
+    padding-left: 25%;
+    width: 80px;
+    padding-top: 26%;
+    font-size: 22px;
+    font-family: Arial, sans-serif;
+    color: #020824;
+}
+
+.labelInput input{
+    width: 270%;
+    width: auto;
+    padding-top: 19%;
+    text-align: justify;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #020824;
+    background-color: #e6e6e6;
+    cursor: pointer;
+} 
+
+.button{
+    color: #063d36;
+    position: absolute;
+    display: block;
+    left: 65%;
+    top: 49%;
+    text-align: center;
+}
+
+#botao{
+    background-color: #e6e6e6;
+    width: 100%;
+    font-size: 15px;
+    padding-bottom: 6%;
+    text-align: center;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #020824;
+    color: #6e6d6d;
+    cursor: pointer;
+}
+
+#Enviar{
+    position: absolute;
+    cursor: pointer;
+    display: block;
+    left: 26%;
+    top: 87%;
+    width: 7%;
+    padding-bottom: 1%;
+    background-color: #205044;
+    border-radius: 5px;
+    border-color: #01140f;
+    font-size: 100%;
+    color: white;
+    border-style: solid;
+}
+
+ .rodape{
+    position: absolute;
+    top: 135%;
+    left: 20%;
+    color: #6e6d6d;
+
+}
+
+.paragrafo{
+    text-align: center;
+    top:115%;
+    font-size: 110%;
+}
+ 
+h1 {
+    color: #020824;
+}
+
+

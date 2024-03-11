@@ -1,0 +1,122 @@
+body {
+    background-image: url(fundo.png);
+    background-size: 2100px 1000px;
+    background-position: -270px;
+}
+
+
+.formulario {
+
+    text-align: left;
+    padding-bottom: 20%;
+    padding-top: 12%;
+    padding-right: 30%;
+
+}
+
+.labelinput {
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+
+}
+
+#fotologo {
+    display: block;
+    width: 80%;
+    height: 20%;
+    margin-left: 10%;
+    margin-top: -53%;
+}
+
+.section {
+width: 40px;
+height: auto;
+margin: left 100px; ;
+margin-top: 0;
+padding: right 50px; ;
+
+}
+.button{
+position: absolute;
+top: 30%;
+left: 30%;
+transform: translate(-50%, -50%);
+}
+
+.infos {
+align-items: normal;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+  }
+
+  
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .section {
+    margin: 20px;
+    text-align: left;
+  }
+
+  ul, ol {
+    list-style-position: inside;
+    padding: 0;
+  }
+
+  li {
+    margin-bottom: 10px;
+  }
+
+  button {
+    padding: 10px 15px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background-color: #45a049;
+  }
+
+  form {
+    margin-top: 20px;
+    text-align: left;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  input, select, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+
+  input[type="submit"] {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+
+  input[type="submit"]:hover {
+    background-color: #45a049;
+  }
+
+
+
